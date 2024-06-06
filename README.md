@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Profile Picture]() <!-- Replace with your actual image link -->
+![Profile Picture](TENGKU_2SECRH_11zon.jpg) <!-- Replace with your actual image link -->
 
 
 ## Headline
