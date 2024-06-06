@@ -11,6 +11,58 @@ Computer Science Student
 
 ## Core
 
+### Education
+**Foundation in Physical Science**, University Technology MAlaysia, 2022
+
+### Position
+
+## Skills
+**Programming Languanges:** C++
+**Cloud Computing:** Microsoft Azure Fundamentals
+
+## Recommended
+
+### Courses
+**Web Programming:** University Technology Malaysia
+**Object-Oriented Programming:** University Technology Malaysia
+
+### Certificates
+
+---
+
+## Additional
+
+## Honors and Awards
+**Dean's Award:** Semester 1, 3
+
+### Projects
+
+## Contact
+**Personal Email:** taimanaliff@gmail.com
+**Organization Email:** tengku03@graduate.utm.my
+**Linkedin:** [Tengku Aiman LinkedIn](www.linkedin.com/in/tengku-muhammad-aiman-aliff-257065254)
+**Twitter:** 
+
+## Assignments
+
+### Assignment 1: Report
+
+#### Reflection
+
+
+### Assignment 2: Website
+
+#### Reflection
+
+### Assignment 3: Github E-Portfolio
+
+#### Reflection
+
+## Projects
+
+
+
+
 <!--
 **Tmanlip/Tmanlip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
