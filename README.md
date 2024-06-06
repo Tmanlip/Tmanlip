@@ -49,6 +49,8 @@ Computer Science Student
 
 ### Assignment 1: Report
 
+**PDF File:** Video Games Website Analysis Using Google Lighthouse.pdf
+
 #### Reflection
 
 
