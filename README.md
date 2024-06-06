@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Profile Picture]() <!-- Replace with your actual image link -->
+
 
 ## Headline
 Computer Science Student
