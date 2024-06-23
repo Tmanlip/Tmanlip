@@ -56,13 +56,14 @@ I have known that it is hard to create a website that can satisty a lot of custo
 
 
 ### Assignment 2: Website
-**Website:** https://github.com/Tmanlip/tmanlip.github.io.git
+**Website:** https://tmanlip.github.io/
 
 #### Reflection
 I have learned the basic of creating a website expecially using grid as the grid is important for us so that our website is structured and easy to read. Using css is very good for the styling that will be implemented on the majority of the website. For improvement. WE need to study more about the usage of CSS and HTML as it is very important so that we will not mess up our website.
 
 ### Assignment 3: Github E-Portfolio
 
+**Website:** https://tmanlip.github.io/tmanlip1.github.io/
 #### Reflection
 I learned that we need to have our public resume or repositories for IT niche as other people can see what we currently working on and what are the progress of other works. For the improvement, I need to research more about GitHub as From my perspective, it is a good space for the IT workers to do their job especially group work as we can monitor everyone.
 
